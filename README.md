@@ -12,5 +12,6 @@ Results:
 
 Greece Region
 ![Greece Region](https://github.com/Giannoulo/Spark-Hotspot-Analysis/blob/master/all.PNG "Greece Region")
+
 Attica Region
 ![Attica Region](https://github.com/Giannoulo/Spark-Hotspot-Analysis/blob/master/attica.PNG "Attica Region")
