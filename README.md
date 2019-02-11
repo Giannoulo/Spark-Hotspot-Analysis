@@ -9,5 +9,8 @@ The size of the data is 9gb and the cluster setup on which Spark was deployed wa
 3. Slave2 4 CPU cores, 8Gb RAM και 60Gb Disk
 
 Results:
+
+Greece Region
 ![Greece Region](https://github.com/Giannoulo/Spark-Hotspot-Analysis/blob/master/all.PNG "Greece Region")
+Attica Region
 ![Attica Region](https://github.com/Giannoulo/Spark-Hotspot-Analysis/blob/master/attica.PNG "Attica Region")
